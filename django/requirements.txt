@@ -1,2 +1,10 @@
  
+ ==================== Backend ==============================
+
+ 1> Django 
+ 2> djangorestframework
+ 3> django-cors-headers
+
+ 
+
     
